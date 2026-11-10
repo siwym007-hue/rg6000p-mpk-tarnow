@@ -1,0 +1,10 @@
+{
+  "name": "R&G 6000P Simulator – MPK Tarnów",
+  "short_name": "R&G 6000P",
+  "lang": "pl-PL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020609",
+  "theme_color": "#078ac5"
+}
